@@ -2,6 +2,10 @@
 
 The Automatic Number Plate Recognition (ANPR) system is a Python-based application that employs OpenCV for locating and recognizing license plates in images.
 
+## Note:
+This repository is currently in an incomplete state.While it provides a basic implementation of the ANPR system, there are several planned enhancements and features that are yet to be implemented.
+I'll be adding further files soon.
+
 ## Overview
 
 The ANPR system is divided into two main components:
